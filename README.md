@@ -3,7 +3,7 @@
 <h2 align="center">ISTQB Certified Test Automation Engineer | Passionate about Quality</h2>
 
 <p align="center">
-An ISTQB-certified Test Automation Engineer with 2 years of hands-on experience, dedicated to elevating software quality through robust automation practices. My expertise lies in crafting efficient and reliable test frameworks.
+An ISTQB-certified Test Automation Engineer with 4 years of hands-on experience, dedicated to elevating software quality through robust automation practices. My expertise lies in crafting efficient and reliable test frameworks.
 </p>
 
 <p align="center">
@@ -95,8 +95,9 @@ An ISTQB-certified Test Automation Engineer with 2 years of hands-on experience,
 
 <h3 align="left">🏆 Certifications:</h3>
 <ul>
-    <li><strong>ISTQB® Certified Tester Performance Testing (CT-PT)</strong></li>
-    <li><strong>ISTQB® Certified Tester Mobile Application Testing (CT-MAT)</strong></li>
+    <li><strong>ISTQB® Certified Tester – Testing with Generative AI (CT-GENAI)</strong></li>
+    <li><strong>ISTQB® Certified Tester – Performance Testing (CT-PT)</strong></li>
+    <li><strong>ISTQB® Certified Tester – Mobile Application Tester (CT-MAT)</strong></li>
     <li><strong>ISTQB® Certified Tester Foundation Level – Agile Tester (CTFL-AT)</strong></li>
     <li><strong>ISTQB® Certified Tester Foundation Level (CTFL)</strong></li>
 </ul>
