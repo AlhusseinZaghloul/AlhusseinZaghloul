@@ -106,7 +106,7 @@ An ISTQB-certified Test Automation Engineer with 4 years of hands-on experience,
 
 <h3 align="left">🔭 About Me:</h3>
 <p align="left">
-    As an <strong>ISTQB® certified Software Tester</strong> with a <strong>B.Sc. in Engineering from Alexandria University</strong>, I bring <strong>2 years of focused experience</strong> in the software testing domain. I am passionate about leveraging technology to ensure high-quality software delivery.
+    As an <strong>ISTQB® certified Software Tester</strong> with a <strong>B.Sc. in Engineering from Alexandria University</strong>, I bring <strong>4 years of focused experience</strong> in the software testing domain. I am passionate about leveraging technology to ensure high-quality software delivery.
 </p>
 
 <h4 align="left">💡 Expertise Highlights:</h4>
